@@ -1,0 +1,18 @@
+{
+  "name": "Personal Calendar & To-Do Planner",
+  "short_name": "MyPlanner",
+  "description": "Aplikasi Personal Calendar & To-Do aesthetic, cepat, dan offline-ready.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF9F6",
+  "theme_color": "#2E7D47",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='128' fill='%232E7D47'/%3E%3Crect x='96' y='128' width='320' height='288' rx='40' fill='%23FAF9F6'/%3E%3Cpath d='M96 192h320' stroke='%232E7D47' stroke-width='24'/%3E%3Ccircle cx='176' cy='112' r='20' fill='%23FAF9F6'/%3E%3Ccircle cx='336' cy='112' r='20' fill='%23FAF9F6'/%3E%3Ccircle cx='180' cy='260' r='24' fill='%232E7D47'/%3E%3Ccircle cx='256' cy='260' r='24' fill='%23E5A020'/%3E%3Ccircle cx='332' cy='260' r='24' fill='%23DC2626'/%3E%3Cpath d='M200 340l40 40 80-80' stroke='%232E7D47' stroke-width='28' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
